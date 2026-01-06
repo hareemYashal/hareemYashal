@@ -59,11 +59,7 @@ Artificial Intelligence and Software Engineer with 10+ years of experience desig
 
 ---
 
-### 🚀 GitHub in Action: My Developer Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hareemYashal&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hareemYashal&theme=radical)
 
 
 
